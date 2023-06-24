@@ -1,0 +1,56 @@
+.front{
+    margin-top: .5vh;
+    margin-bottom: .5vh;
+    position: absolute;
+    background-image: url('img/Pusheen_Zoom_Background_Beach_2020 2.jpg');
+    width: 100%;
+    padding-top: 12vh;
+    padding-bottom: 12.3vh;
+}
+
+.subp{
+    position: relative;
+    top: 30.5vh;
+    background-color: white ;
+    padding: 5vh 5vh;
+    margin-bottom: .5vh;
+}
+
+.about{
+    justify-content: center;
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}
+
+.aboutwords{
+    max-width: 30%;
+}
+
+.abtbeg{
+    padding-bottom: 2vh;
+}
+
+.lis {
+    padding-bottom: 5vh;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td{
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #f0b1c3;
+}
+
+.sponsors{
+    font-size: large;
+    font-weight: 700;
+}
+
+.sponsorsimg{
+    width: 20vh;
+}
