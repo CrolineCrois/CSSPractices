@@ -1,16 +1,13 @@
 .front{
-    margin-top: .5vh;
-    margin-bottom: .5vh;
-    position: absolute;
+    margin-top: .5%;
+    margin-bottom: .5%;
     background-image: url('img/Pusheen_Zoom_Background_Beach_2020 2.jpg');
+    padding-top: 10rem;
     width: 100%;
-    padding-top: 12vh;
-    padding-bottom: 12.3vh;
+    height: 10rem;
 }
 
 .subp{
-    position: relative;
-    top: 30.5vh;
     background-color: white ;
     padding: 5vh 5vh;
     margin-bottom: .5vh;

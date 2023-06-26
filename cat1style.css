@@ -1,7 +1,44 @@
-.mainchunk{
+.mainchunk {
     background-color: white;
     margin-top: .5vh;
     padding-top: 3% ;
     padding-left: 20%;
     padding-right: 20%;
+    padding-bottom: 5%;
+}
+
+h3{
+    text-align: left;
+}
+
+.gallery {
+    margin: 2vh;
+    border: 1px solid #ccc;
+    width: 400px;
+    min-width: 400px;
+    border-radius: 10px;
+}
+
+.gallery:hover {
+    border: 2px solid #777
+}
+
+.gallery img {
+    border-radius: 10px 10px 0px 0px;
+    object-fit: cover;
+    object-position: center;
+    width: 100%;
+}
+
+.desc {
+    padding: 10%;
+    text-align: left;
+}
+
+.galleryelements{
+    margin-top: 2vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
