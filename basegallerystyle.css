@@ -1,16 +1,3 @@
-.images{
-    margin: 2rem;
-    height: 300px;
-    min-height: 300px;
-}
-
-.imageelem{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
-
 .backarrow{
     position: relative;
 }
